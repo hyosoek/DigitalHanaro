@@ -1,1 +1,3 @@
-test for git revert
+ht, ttt
+
+this is git reset!
