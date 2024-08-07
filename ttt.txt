@@ -1,1 +1,3 @@
-hi,ttt
+ht, ttt
+
+this is git reset!
