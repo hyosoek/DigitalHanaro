@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ht, ttt
 
 this is git revert3!
