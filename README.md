@@ -4,3 +4,5 @@
 
 ### login function create
 ### login release 0.1.0 create
+### regist function create
+### regist release 0.2.0 create
