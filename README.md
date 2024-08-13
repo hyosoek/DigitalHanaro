@@ -6,4 +6,5 @@
 ### login release 0.1.0 create
 ### regist function create
 ### regist release 0.2.0 create
+### hotfix between 0.2.0 and 0.3.0
 ### regist release 0.3.0 create
